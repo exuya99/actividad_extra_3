@@ -1,0 +1,3 @@
+En la unidad 2 empezamos a manejar el lenguaje de programación JavaScript (JS) y utilizamos algunas de nuestras primeras funciones como tarea extra el cual fue Math.random(); esta función puso a prueba nuestra lógica tanto matemática como para la resolución de problemas básicos. También pusimos en práctica los bucles for, while, o incluso do while.
+Todos los bucles tienen cada uno su complejidad y pueden ser utilizados de formas muy flexibles para adaptarse a nuestras necesidades según el tipo de programa que estemos creando.
+Considero que fueron muy buenos ejercicios para empezar a familiarizarse con el lenguaje JavaScript y también para poner a prueba nuestras habilidades que vamos desarrollando como programadores.

@@ -1,0 +1,3 @@
+En la unidad 1 aprendimos aprendimos el lenguaje de las computadoras que es el sistema binario de base 2 que contiene únicamente unos y ceros ya que esta es el único lenguaje que entienden las computadoras.
+También aprendimos acerca de los algoritmos que son la base que todo programador debe aprender para llevar a cabo la solución o creación de un programa.
+Personalmente me costó un poco entender la lógica al momento de crear una proposición y poder unir todas estas mismas a un único concepto que logre explicar la solución de manera simple y sin extenderse demasiado.
